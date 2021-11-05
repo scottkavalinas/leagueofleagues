@@ -3,3 +3,7 @@ end over reg each league winner gets 2 points (pres trophy)
 playoffs 1st gets 11, 2 gets 9, 7,6,5,4.....0
 
 show standings of inividual sports and league
+
+show previous winners at different levels (top 3)
+
+go with current colours
